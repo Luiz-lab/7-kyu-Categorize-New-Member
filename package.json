@@ -1,0 +1,14 @@
+{
+  "name": "7-kyu-categorize-new-member",
+  "version": "1.0.0",
+  "description": "Menber form ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "l.Klixto",
+  "license": "ISC"
+}
